@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776188633256,
+    "titulo": "MENDOZA 507 P.B",
+    "dir": "MENDOZA 507 P.B",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "MARIA RITA VIAGGIO",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T17:43:53.256Z"
+  },
+  {
     "id": 1776188342668,
     "titulo": "Calle Santa Fe 3163, Torre B, Primer piso, departamento 09/C",
     "dir": "Calle Santa Fe 3163, Torre B, Primer piso, departamento 09/C",
