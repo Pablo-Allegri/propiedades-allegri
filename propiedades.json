@@ -2661,7 +2661,7 @@
     "desc": "",
     "emoji": "🏢",
     "publicada": true,
-    "destacada": true,
+    "destacada": false,
     "aptoCred": false,
     "agencyId": "pabloallegri",
     "createdAt": "2026-04-01T00:00:00"
