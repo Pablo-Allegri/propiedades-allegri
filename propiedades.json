@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776181218499,
+    "titulo": "MACHAIN 1430",
+    "dir": "MACHAIN 1430",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "MARIA DEL CARMEN CRUZ / ALEJANDRA NOEMI CRUZ",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:40:18.499Z"
+  },
+  {
     "id": 1776180858372,
     "titulo": "SARMIENTO 846 PISO 8 DPTO 2",
     "dir": "SARMIENTO 846 PISO 8 DPTO 2",
