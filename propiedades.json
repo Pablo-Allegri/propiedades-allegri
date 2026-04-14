@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776188229545,
+    "titulo": "MENCHACA MANUEL 1236 \"A\"",
+    "dir": "MENCHACA MANUEL 1236 \"A\"",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "RAMIRO JOAQUÍN FERNANDEZ",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T17:37:09.545Z"
+  },
+  {
     "id": 1776186723073,
     "titulo": "GODOY CRUZ 415",
     "dir": "GODOY CRUZ 415",
