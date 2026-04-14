@@ -2900,7 +2900,7 @@
     "op": "Venta",
     "estado": "disponible",
     "precio": 370000,
-    "moneda": "USD",
+    "moneda": "ARS",
     "dorm": 0,
     "ban": 1,
     "m2": 28,
