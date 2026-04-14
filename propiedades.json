@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776186723073,
+    "titulo": "GODOY CRUZ 415",
+    "dir": "GODOY CRUZ 415",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "JESICA EDITH ARIAS",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T17:12:03.074Z"
+  },
+  {
     "id": 1776186278484,
     "titulo": "3 DE FEBRERO 370 PISO 9 DPTO \"A\"",
     "dir": "3 DE FEBRERO 370 PISO 9 DPTO \"A\"",
