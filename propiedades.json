@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776185915552,
+    "titulo": "PASCO 1229",
+    "dir": "PASCO 1229",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "LEANDRO IVAN BRONDINO",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T16:58:35.552Z"
+  },
+  {
     "id": 1776185395089,
     "titulo": "PARAGUAY 2348",
     "dir": "PARAGUAY 2348",
