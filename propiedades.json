@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776185395089,
+    "titulo": "PARAGUAY 2348",
+    "dir": "PARAGUAY 2348",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "GUSTAVO BERNARDO SCHWIENTERS",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T16:49:55.089Z"
+  },
+  {
     "id": 1776185046039,
     "titulo": "ITALIA 277/79 PISO 9 - DPTO 02",
     "dir": "ITALIA 277/79 PISO 9 - DPTO 02",
