@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776178853377,
+    "titulo": "SANTIAGO 557 - PISO 2 - DPTO E",
+    "dir": "SANTIAGO 557 - PISO 2 - DPTO E",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "JULIO ALEJANDRO ROLDAN",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:00:53.377Z"
+  },
+  {
     "id": 1776178472821,
     "titulo": "DEAN FUNES 1547",
     "dir": "DEAN FUNES 1547",
