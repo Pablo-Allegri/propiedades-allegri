@@ -23,7 +23,7 @@
     "tipo": "Casa",
     "operacion": "venta",
     "op": "Venta",
-    "estado": "alquilado",
+    "estado": "disponible",
     "precio": 245000,
     "moneda": "USD",
     "dorm": 3,
