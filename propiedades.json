@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776179098331,
+    "titulo": "FRANCIA 3948 - DPTO 1",
+    "dir": "FRANCIA 3948 - DPTO 1",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "CRISTINA GLADYS HELBERT",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:04:58.331Z"
+  },
+  {
     "id": 1776178853377,
     "titulo": "SANTIAGO 557 - PISO 2 - DPTO E",
     "dir": "SANTIAGO 557 - PISO 2 - DPTO E",
