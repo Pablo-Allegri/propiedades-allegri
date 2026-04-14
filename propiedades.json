@@ -135,7 +135,7 @@
     "desc": "Casa de 2 dormitorios desarrollada en una única planta con jardín y pileta. La propiedad se encuentra ubicada en un lote de esquina sobre calle Sarratea y Juan B Justo, teniendo el ingreso peatonal y el ingreso vehicular sobre cada una de ellas respectivamente. Ingreso principal a un amplio ambiente conformado por el estar comedor con vista despejada hacia el jardín y salida a la galería mediante amplios ventanales, cocina integrada mediante barra desayunadora totalmente equipada con mesada de granito con bacha doble de acero inoxidable con grifería monocomando, anafe y horno empotrado a gas, espacio técnico para heladera y microondas. Pasillo hacia los dos dormitorios y baño principal, el dormitorio principal cuenta con vestidor y acceso directo al baño quedando el mismo en suite. En el área exterior se desarrolla una galería con espacio para comedor exterior, parrillero, cochera cubierta para 2 vehículos, cuarto de guardado y jardín con pileta. Casa de construcción tradicional con techos a dos aguas en chapa con revestimiento interior de madera. Pisos de cerámico en espacios comunes y flotante o alfombras en dormitorios. Climatización por calefactores en todos los ambientes y preinstalación de aires acondicionados. Pileta de material con bomba y filtro en perfecto funcionamiento. Agua caliente por calefón. Tanque con bomba presurizadora. Rejas de seguridad colocadas en todas las aberturas y alarma instalada.\nUbicación: Ubicado en esquina de calle Sarratea y Juan B Justo. Fácil y rápido acceso, con numerosas líneas de transporte publico.\nObservación: Escriturado con planos al día. La propiedad se vende únicamente en efectivo. Terreno de 456m en esquina con 16.32 metros por 28 metros.\nLa información publicada es orientativa y puede variar. Las medidas, superficies, valores de expensas, impuestos y demás datos son aproximados y deberán confirmarse con el corredor responsable antes de concretar cualquier operación. Los detalles podrán actualizarse o modificarse sin previo aviso, a fin de mantener la información siempre lo más precisa posible.\n",
     "emoji": "🏠",
     "publicada": true,
-    "destacada": true,
+    "destacada": false,
     "aptoCred": false,
     "agencyId": "pabloallegri",
     "createdAt": "2026-04-01T00:00:00"
@@ -2624,7 +2624,7 @@
     "tipo": "Depto",
     "operacion": "venta",
     "op": "Venta",
-    "estado": "alquilado",
+    "estado": "disponible",
     "precio": 39000,
     "moneda": "USD",
     "dorm": 0,
