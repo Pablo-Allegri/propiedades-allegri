@@ -817,7 +817,7 @@
     "operacion": "alquiler",
     "op": "alquiler",
     "estado": "disponible",
-    "precio": 640000,
+    "precio": 650000,
     "moneda": "ARS",
     "dorm": 2,
     "ban": 1,
@@ -841,7 +841,7 @@
     "desc": "",
     "emoji": "🏢",
     "publicada": true,
-    "destacada": false,
+    "destacada": true,
     "aptoCred": false,
     "agencyId": "pabloallegri",
     "createdAt": "2026-04-01T00:00:00"
