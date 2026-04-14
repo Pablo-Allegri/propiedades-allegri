@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776180429941,
+    "titulo": "MISTER ROSS 1654",
+    "dir": "MISTER ROSS 1654",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "ACEITERA GENERAL DEHEZA S.A",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:27:09.941Z"
+  },
+  {
     "id": 1776180145046,
     "titulo": "ENTRE RIOS 2156 (06-02",
     "dir": "ENTRE RIOS 2156 (06-02",
