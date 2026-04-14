@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776181687208,
+    "titulo": "SAN JUAN 468 (01-01)",
+    "dir": "SAN JUAN 468 (01-01)",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "FRANCO LUIS FIORI",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:48:07.208Z"
+  },
+  {
     "id": 1776181218499,
     "titulo": "MACHAIN 1430",
     "dir": "MACHAIN 1430",
