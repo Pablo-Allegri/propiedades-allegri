@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776177847218,
+    "titulo": "CAMILO ALDAO 2108",
+    "dir": "CAMILO ALDAO 2108",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "JULIO ALEJANDRO ROLDAN",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T14:44:07.218Z"
+  },
+  {
     "id": 1776177457480,
     "titulo": "CERRITO 5301",
     "dir": "CERRITO 5301",
