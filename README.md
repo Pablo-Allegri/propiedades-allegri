@@ -1,0 +1,2 @@
+# propiedades-allegri
+propiedades-allegri
