@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776186278484,
+    "titulo": "3 DE FEBRERO 370 PISO 9 DPTO \"A\"",
+    "dir": "3 DE FEBRERO 370 PISO 9 DPTO \"A\"",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "JULIETA PAULA SAJEVA",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T17:04:38.484Z"
+  },
+  {
     "id": 1776185915552,
     "titulo": "PASCO 1229",
     "dir": "PASCO 1229",
