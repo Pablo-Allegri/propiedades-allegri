@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776180145046,
+    "titulo": "ENTRE RIOS 2156 (06-02",
+    "dir": "ENTRE RIOS 2156 (06-02",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "JOSE CARLOS BACOVCIK",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:22:25.046Z"
+  },
+  {
     "id": 1776179504120,
     "titulo": "ZEBALLOS 2471 (11-02)",
     "dir": "ZEBALLOS 2471 (11-02)",
