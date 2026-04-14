@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776180858372,
+    "titulo": "SARMIENTO 846 PISO 8 DPTO 2",
+    "dir": "SARMIENTO 846 PISO 8 DPTO 2",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "ALBERTO OMAR DASTRES",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:34:18.372Z"
+  },
+  {
     "id": 1776180429941,
     "titulo": "MISTER ROSS 1654",
     "dir": "MISTER ROSS 1654",
