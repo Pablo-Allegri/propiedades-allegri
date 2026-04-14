@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776181772901,
+    "titulo": "COLÓN 1256",
+    "dir": "COLÓN 1256",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "ARIEL FERNANDO ZUCCHIATTI",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:49:32.901Z"
+  },
+  {
     "id": 1776181687208,
     "titulo": "SAN JUAN 468 (01-01)",
     "dir": "SAN JUAN 468 (01-01)",
