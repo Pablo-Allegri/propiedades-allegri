@@ -1,5 +1,19 @@
 [
   {
+    "id": 1776182100938,
+    "titulo": "LA RASTRA 3234",
+    "dir": "LA RASTRA 3234",
+    "tipo": "Departamento",
+    "operacion": "alquiler",
+    "estado": "alquilado",
+    "propNombre": "MARIA PAULA DIGRAZIA",
+    "propTel": "",
+    "fotos": [],
+    "emoji": "🏠",
+    "agencyId": "pabloallegri",
+    "createdAt": "2026-04-14T15:55:00.938Z"
+  },
+  {
     "id": 1776181772901,
     "titulo": "COLÓN 1256",
     "dir": "COLÓN 1256",
