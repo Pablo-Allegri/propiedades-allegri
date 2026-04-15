@@ -3122,7 +3122,7 @@
     "tipo": "Casa",
     "operacion": "alquiler",
     "op": "alquiler",
-    "estado": "alquilado",
+    "estado": "disponible",
     "precio": 1500000,
     "moneda": "ARS",
     "dorm": 3,
