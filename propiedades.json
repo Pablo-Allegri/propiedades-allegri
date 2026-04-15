@@ -43,12 +43,25 @@
     "propEmail": "",
     "honorario": 5,
     "foto": "",
-    "fotos": [],
+    "fotos": [
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213020781_0.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213022128_1.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213023458_2.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213024739_3.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213026090_4.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213027309_5.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213028560_6.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213029818_7.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213031115_8.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213039067_9.jpg",
+      "https://raw.githubusercontent.com/Pablo-Allegri/fotos-props-allegri/main/fotos/1776210812383/foto_1776213040716_10.jpg"
+    ],
     "estado": "disponible",
     "publicada": false,
     "emoji": "🏠",
     "createdAt": "2026-04-14T23:53:32.383Z",
-    "op": "alquiler"
+    "op": "alquiler",
+    "destacada": true
   },
   {
     "id": 145,
