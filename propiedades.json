@@ -53,7 +53,7 @@
     "terraza": false,
     "alarma": false,
     "aireCentral": false,
-    "aireInd": false,
+    "aireInd": true,
     "gasNatural": true,
     "lavadero": true,
     "propNombre": "",
