@@ -5094,7 +5094,7 @@
     "tipo": "Cochera",
     "operacion": "venta",
     "op": "venta",
-    "estado": "disponible",
+    "estado": "retirado",
     "precio": 26250,
     "moneda": "USD",
     "dorm": 0,
