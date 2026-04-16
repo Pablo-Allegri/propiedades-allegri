@@ -2037,7 +2037,7 @@
     "desc": "",
     "emoji": "🏠",
     "publicada": true,
-    "destacada": false,
+    "destacada": true,
     "aptoCred": false,
     "agencyId": "pabloallegri",
     "createdAt": "2026-04-01T00:00:00"
