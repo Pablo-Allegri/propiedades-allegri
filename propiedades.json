@@ -5120,7 +5120,7 @@
     "tipo": "Depto",
     "operacion": "venta",
     "op": "venta",
-    "estado": "disponible",
+    "estado": "retirado",
     "precio": 275000,
     "moneda": "USD",
     "dorm": 2,
