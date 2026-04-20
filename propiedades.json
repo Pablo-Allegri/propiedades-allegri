@@ -1722,7 +1722,7 @@
     "operacion": "venta",
     "op": "venta",
     "estado": "disponible",
-    "precio": 341000,
+    "precio": 324500,
     "moneda": "USD",
     "dorm": 4,
     "ban": 4,
@@ -1761,7 +1761,8 @@
     "destacada": false,
     "aptoCred": false,
     "agencyId": "pabloallegri",
-    "createdAt": "2026-04-01T00:00:00"
+    "createdAt": "2026-04-01T00:00:00",
+    "garage": true
   },
   {
     "id": 273,
