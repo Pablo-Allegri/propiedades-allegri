@@ -24,7 +24,8 @@
     "operacion": "venta",
     "desc": "Al frente con balcón",
     "op": "venta",
-    "aptoCred": false
+    "aptoCred": false,
+    "publicado": false
   },
   {
     "tgiCuenta": "",
@@ -88,7 +89,8 @@
     "propEmail": "",
     "tgi": 41000,
     "dir": "Pte Peron 1218  A",
-    "foto": ""
+    "foto": "",
+    "publicado": false
   },
   {
     "estado": "disponible",
@@ -125,7 +127,8 @@
       "https://gvamax.ar/serverdata/541/Fotos/Fi019865.541",
       "https://gvamax.ar/serverdata/541/Fotos/Fi019866.541",
       "https://gvamax.ar/serverdata/541/Fotos/Fi019867.541"
-    ]
+    ],
+    "publicado": false
   },
   {
     "tipo": "Departamento",
@@ -143,7 +146,8 @@
     "precio": 83000,
     "titulo": "Ituzaigo 1439 U 13",
     "id": "c_1775874132524",
-    "publicada": false
+    "publicada": false,
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -161,7 +165,8 @@
     "op": "alquiler",
     "moneda": "ARS",
     "prov": "Santa Fe",
-    "publicada": true
+    "publicada": true,
+    "publicado": false
   },
   {
     "dir": "SANTA FE N° 3163, TORRE B, PLANTA BAJA, DEPARTAMENTO C",
@@ -179,7 +184,8 @@
     "operacion": "alquiler",
     "_fromContrato": true,
     "estado": "alquilado",
-    "publicada": true
+    "publicada": true,
+    "publicado": false
   },
   {
     "tipo": "Departamento",
@@ -196,7 +202,8 @@
     "fotos": [],
     "precio": 304359,
     "titulo": "Santa Fe 3163 06-03",
-    "id": "c_1775579162455"
+    "id": "c_1775579162455",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -213,7 +220,8 @@
     "propNombre": "Ardel Santiago Leopoldo y Ardel Fernando Javier",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "Elian Osmar Lima"
+    "inquilino": "Elian Osmar Lima",
+    "publicado": false
   },
   {
     "dir": "Av. Eva Perón 4917",
@@ -230,7 +238,8 @@
     "tipo": "Departamento",
     "operacion": "alquiler",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -247,7 +256,8 @@
     "id": "c_1775488781597",
     "dir": "Calle Bernstadt N° 645",
     "propNombre": "RAMIRO JOAQUÍN FERNANDEZ",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -264,7 +274,8 @@
     "precio": 260000,
     "fotos": [],
     "dir": "COLÓN 1357, PISO 05 - DPTO 02",
-    "propNombre": "Cardell Norma Beatriz"
+    "propNombre": "Cardell Norma Beatriz",
+    "publicado": false
   },
   {
     "inquilino": "Batista Vinicius Drum",
@@ -281,7 +292,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -298,7 +310,8 @@
     "operacion": "alquiler",
     "moneda": "ARS",
     "op": "alquiler",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "propNombre": "ARIEL FERNANDO ZUCCHIATTI",
@@ -315,7 +328,8 @@
     "tipo": "Departamento",
     "operacion": "alquiler",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -332,7 +346,8 @@
     "operacion": "alquiler",
     "moneda": "ARS",
     "op": "alquiler",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "tipo": "Departamento",
@@ -349,7 +364,8 @@
     "fotos": [],
     "precio": 352127,
     "titulo": "Calle 1° MAYO 1140 PISO 18 \"02\"",
-    "id": "c_1775309473747"
+    "id": "c_1775309473747",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -366,7 +382,8 @@
     "id": "c_2",
     "propNombre": "DIANA MARIA CECILIA TANO VIGNAROLI",
     "dir": "SANTA FE 3163 \"A\" 4TO PISO - DEPTO A",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "moneda": "ARS",
@@ -383,7 +400,8 @@
     "titulo": "SAN MARTIN 1142 - UNIDAD 0401 Y UNIDAD I -11C (COCHERA)",
     "precio": 577813,
     "inquilino": "ANDRES ESTABAN MASNILLA Y MARICEL CLAUDIA GIORGI",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "id": "c_18",
@@ -400,7 +418,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "operacion": "alquiler",
-    "tipo": "Departamento"
+    "tipo": "Departamento",
+    "publicado": false
   },
   {
     "id": "c_7",
@@ -417,7 +436,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "tipo": "Departamento",
-    "operacion": "alquiler"
+    "operacion": "alquiler",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -434,7 +454,8 @@
     "id": "c_16",
     "dir": "SALTA 2008/10 PISO 01 - DEPTO \"A\"",
     "propNombre": "Ramiro Joaquin Fernandez ",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "id": "c_17",
@@ -451,7 +472,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "operacion": "alquiler",
-    "tipo": "Departamento"
+    "tipo": "Departamento",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -468,7 +490,8 @@
     "id": "c_12",
     "propNombre": "SILVINA SANDRA ZUCCHIATTI",
     "dir": "AV PROVINCIAS UNIDAS 2371",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "inquilino": "MARIA CRISTINA GRIN",
@@ -485,7 +508,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "inquilino": "VIRGINIA PERASSI",
@@ -502,7 +526,8 @@
     "estado": "alquilado",
     "moneda": "ARS",
     "op": "alquiler",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "id": "c_124",
@@ -519,7 +544,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "tipo": "Departamento",
-    "operacion": "alquiler"
+    "operacion": "alquiler",
+    "publicado": false
   },
   {
     "op": "alquiler",
@@ -536,7 +562,8 @@
     "titulo": "MENCHACA MANUEL 1236 \"B\"",
     "precio": 814685.76,
     "inquilino": "MIGUEL ANGEL ZELADA",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -553,7 +580,8 @@
     "dir": "PARAGUAY 2348",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "JOSE LUIS PRADAL"
+    "inquilino": "JOSE LUIS PRADAL",
+    "publicado": false
   },
   {
     "fotos": [],
@@ -570,7 +598,8 @@
     "_fromContrato": true,
     "tipo": "Departamento",
     "operacion": "alquiler",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -587,7 +616,8 @@
     "tipo": "Departamento",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "inquilino": "ANTONIO SANTIAGO MORER",
@@ -604,7 +634,8 @@
     "estado": "alquilado",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "fotos": [],
@@ -621,7 +652,8 @@
     "_fromContrato": true,
     "tipo": "Departamento",
     "operacion": "alquiler",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -638,7 +670,8 @@
     "_fromContrato": true,
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "titulo": "PASCO 1229",
@@ -655,7 +688,8 @@
     "estado": "alquilado",
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "_fromContrato": true
+    "_fromContrato": true,
+    "publicado": false
   },
   {
     "fotos": [],
@@ -672,7 +706,8 @@
     "_fromContrato": true,
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "titulo": "DEAN FUNES 1547",
@@ -689,7 +724,8 @@
     "estado": "alquilado",
     "tipo": "Departamento",
     "operacion": "alquiler",
-    "_fromContrato": true
+    "_fromContrato": true,
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -706,7 +742,8 @@
     "id": "c_23",
     "propNombre": "GISELA ROXANA RIZZOLO",
     "dir": "VALPARAÍSO 1225",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -723,7 +760,8 @@
     "operacion": "alquiler",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "op": "alquiler",
@@ -740,7 +778,8 @@
     "precio": 370813,
     "titulo": "MISTER ROSS 1654",
     "inquilino": "LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS ULTIMOS DIAS",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -757,7 +796,8 @@
     "operacion": "alquiler",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -774,7 +814,8 @@
     "dir": "ITALIA 277/79 PISO 9 - DPTO 02",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "VALENTIN BENITEZ Y LISANDRO EMANUEL ALVAREZ"
+    "inquilino": "VALENTIN BENITEZ Y LISANDRO EMANUEL ALVAREZ",
+    "publicado": false
   },
   {
     "dir": "ZEBALLOS 2471 (11-02)",
@@ -791,7 +832,8 @@
     "operacion": "alquiler",
     "tipo": "Departamento",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "inquilino": "KIMEY TALIA BANEGAS",
@@ -808,7 +850,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -825,7 +868,8 @@
     "dir": "ENTRE RIOS 2156 (06-02",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "SOFIA ANABEL MORALES"
+    "inquilino": "SOFIA ANABEL MORALES",
+    "publicado": false
   },
   {
     "inquilino": "DIEGO ARIEL BARGAS",
@@ -842,7 +886,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "fotos": [],
@@ -859,7 +904,8 @@
     "_fromContrato": true,
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "operacion": "alquiler",
@@ -876,7 +922,8 @@
     "fotos": [],
     "titulo": "SARMIENTO 846 PISO 8 DPTO 2",
     "precio": 308105,
-    "id": "c_37"
+    "id": "c_37",
+    "publicado": false
   },
   {
     "inquilino": "MARTIN RODOLFO ALTAMIRANO",
@@ -893,7 +940,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "op": "alquiler",
@@ -910,7 +958,8 @@
     "titulo": "LAPRIDA 1766 (08-03)",
     "precio": 313293,
     "inquilino": "IVAN MANUEL VALENZUELA",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "propNombre": "MARIA PAULA DIGRAZIA",
@@ -927,7 +976,8 @@
     "tipo": "Departamento",
     "operacion": "alquiler",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "precio": 1669150,
@@ -944,7 +994,8 @@
     "estado": "alquilado",
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "_fromContrato": true
+    "_fromContrato": true,
+    "publicado": false
   },
   {
     "id": "c_40",
@@ -961,7 +1012,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "tipo": "Departamento",
-    "operacion": "alquiler"
+    "operacion": "alquiler",
+    "publicado": false
   },
   {
     "_fromContrato": true,
@@ -978,7 +1030,8 @@
     "propNombre": "DIANA MARIA CECILIA TANO VIGNAROLI",
     "id": "c_-------",
     "titulo": "SANTA FE 3163 TORRE A - 2DO PISO - DEPTO A - 02-01",
-    "precio": 490000
+    "precio": 490000,
+    "publicado": false
   },
   {
     "propNombre": "RAMIRO JOAQUÍN FERNANDEZ",
@@ -995,7 +1048,8 @@
     "operacion": "alquiler",
     "tipo": "Departamento",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "dir": "calle San Juan N° 3052, Tercer piso, departamento Cuarto",
@@ -1012,7 +1066,8 @@
     "operacion": "alquiler",
     "tipo": "Departamento",
     "_fromContrato": true,
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -1029,7 +1084,8 @@
     "id": "c_1775173327865",
     "dir": "Calle Santa Fe 3163 Torre A, decimo piso, departamento B",
     "propNombre": "German Mauricio Burgi",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "_fromContrato": true,
@@ -1046,7 +1102,8 @@
     "dir": "Calle Santa Fe Nº 3163 Torre A Piso 10 Departamento C",
     "id": "c_1775173225078",
     "precio": 315000,
-    "titulo": "Calle Santa Fe Nº 3163 Torre A Piso 10 Departamento C"
+    "titulo": "Calle Santa Fe Nº 3163 Torre A Piso 10 Departamento C",
+    "publicado": false
   },
   {
     "_fromContrato": true,
@@ -1063,7 +1120,8 @@
     "dir": "Calle ALVEAR N° 592, Sexto piso, departamento 01",
     "id": "c_1775173141380",
     "titulo": "Calle ALVEAR N° 592, Sexto piso, departamento 01",
-    "precio": 270000
+    "precio": 270000,
+    "publicado": false
   },
   {
     "op": "alquiler",
@@ -1080,7 +1138,8 @@
     "precio": 370000,
     "titulo": "Calle Santa Fe N° 3163 Torre A, Piso 9, Departamento C",
     "inquilino": "POZZI, MARIA ALEJANDRA",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "fotos": [],
@@ -1097,7 +1156,8 @@
     "_fromContrato": true,
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "moneda": "ARS",
@@ -1114,7 +1174,8 @@
     "precio": 525214,
     "titulo": "Presidente Perón (ex – Independencia) N° 1218 \"A\"",
     "inquilino": "EMMA CARLA CUE",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "fotos": [],
@@ -1131,7 +1192,8 @@
     "_fromContrato": true,
     "tipo": "Departamento",
     "operacion": "alquiler",
-    "estado": "alquilado"
+    "estado": "alquilado",
+    "publicado": false
   },
   {
     "inquilino": "Maria Belén Fernandez Kastelic",
@@ -1148,7 +1210,8 @@
     "estado": "alquilado",
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -1165,7 +1228,8 @@
     "id": "c_1775172407217",
     "dir": "RIOJA 3267 (03-04)",
     "propNombre": "RAMIRO JOAQUÍN FERNANDEZ",
-    "fotos": []
+    "fotos": [],
+    "publicado": false
   },
   {
     "inquilino": "JORGE ROBERTO IGLESIA",
@@ -1182,7 +1246,8 @@
     "estado": "alquilado",
     "moneda": "ARS",
     "op": "alquiler",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -1199,7 +1264,8 @@
     "_fromContrato": true,
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -1216,7 +1282,8 @@
     "precio": 365768,
     "id": "c_1775171192672",
     "inquilino": "MARIA ALEJANDRA BENITEZ",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "ciudad": "Rosario",
@@ -1233,7 +1300,8 @@
     "_fromContrato": true,
     "prov": "Santa Fe",
     "op": "alquiler",
-    "moneda": "ARS"
+    "moneda": "ARS",
+    "publicado": false
   },
   {
     "estado": "alquilado",
@@ -1250,7 +1318,8 @@
     "precio": 67000,
     "fotos": [],
     "propNombre": "ARDEL SANTIAGO LEOPOLDO Y ARDEL FERNANDO JAVIER",
-    "dir": "COCHERA 12 - Santa Fe 3163"
+    "dir": "COCHERA 12 - Santa Fe 3163",
+    "publicado": false
   },
   {
     "precio": 67000,
@@ -1267,7 +1336,8 @@
     "estado": "alquilado",
     "operacion": "alquiler",
     "tipo": "Departamento",
-    "_fromContrato": true
+    "_fromContrato": true,
+    "publicado": false
   },
   {
     "moneda": "ARS",
@@ -1284,7 +1354,8 @@
     "titulo": "COCHERA 23 - Santa Fe 3163",
     "precio": 67000,
     "inquilino": "LIDIA",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -1301,7 +1372,8 @@
     "precio": 67000,
     "id": "c_1775867575105",
     "inquilino": "GIULIANA TARDINI",
-    "ciudad": "Rosario"
+    "ciudad": "Rosario",
+    "publicado": false
   },
   {
     "id": "c_1775867575106",
@@ -1318,7 +1390,8 @@
     "estado": "alquilado",
     "_fromContrato": true,
     "operacion": "alquiler",
-    "tipo": "Departamento"
+    "tipo": "Departamento",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -1335,7 +1408,8 @@
     "dir": "COCHERA 19 - Santa Fe 3163",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "WARDI HNILITZE ALEJANDRO"
+    "inquilino": "WARDI HNILITZE ALEJANDRO",
+    "publicado": false
   },
   {
     "prov": "Santa Fe",
@@ -1352,7 +1426,8 @@
     "propNombre": "ARDEL SANTIAGO LEOPOLDO Y ARDEL FERNANDO JAVIER",
     "fotos": [],
     "ciudad": "Rosario",
-    "inquilino": "VACÍO"
+    "inquilino": "VACÍO",
+    "publicado": false
   },
   {
     "tipo": "Departamento",
@@ -1369,6 +1444,7 @@
     "fotos": [],
     "precio": 0,
     "titulo": "TORRE A, UNIDAD 06-06 - Santa Fe 3163",
-    "id": "c_1775867901722"
+    "id": "c_1775867901722",
+    "publicado": false
   }
 ]
