@@ -160,7 +160,8 @@
     "operacion": "alquiler",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicada": true
   },
   {
     "dir": "SANTA FE N° 3163, TORRE B, PLANTA BAJA, DEPARTAMENTO C",
