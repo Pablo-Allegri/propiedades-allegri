@@ -142,8 +142,7 @@
     "fotos": [],
     "precio": 83000,
     "titulo": "Ituzaigo 1439 U 13",
-    "id": "c_1775874132524",
-    "publicada": true
+    "id": "c_1775874132524"
   },
   {
     "ciudad": "Rosario",
@@ -160,7 +159,8 @@
     "operacion": "alquiler",
     "op": "alquiler",
     "moneda": "ARS",
-    "prov": "Santa Fe"
+    "prov": "Santa Fe",
+    "publicada": true
   },
   {
     "dir": "SANTA FE N° 3163, TORRE B, PLANTA BAJA, DEPARTAMENTO C",
