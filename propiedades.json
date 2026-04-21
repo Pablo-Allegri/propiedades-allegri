@@ -29,7 +29,7 @@
   {
     "tgiCuenta": "",
     "aguas": 29000,
-    "publicada": false,
+    "publicada": true,
     "quincho": false,
     "prov": "Santa Fe",
     "emoji": "🏠",
